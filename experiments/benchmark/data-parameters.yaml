@@ -1,0 +1,5 @@
+noise_var: 0.05,
+locations: [1000, 2000, 3000]
+steepness: [1, 1, 1]
+num_datapoints: 4000
+num_datasets: 10

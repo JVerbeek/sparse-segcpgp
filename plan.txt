@@ -1,0 +1,7 @@
+Tomorrow: 
+    - Figure out whether to create separate dirs per experiment, or to just have 
+        benchmark
+            - logs
+            - results
+            - data
+            

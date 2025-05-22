@@ -1,0 +1,3 @@
+[submodule "RCGP"]
+	path = RCGP
+	url = git@github.com:maltamiranomontero/RCGP.git
